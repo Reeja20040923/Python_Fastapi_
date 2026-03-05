@@ -1,3 +1,4 @@
+#CRUD OPERATIONS
 from fastapi import FastAPI,status
 from fastapi.exceptions import HTTPException
 from pydantic import BaseModel
